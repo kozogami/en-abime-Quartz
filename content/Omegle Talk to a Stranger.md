@@ -1,0 +1,1 @@
+Displays one of an assortment of scrambled messages at random. Links to [[No Trespassing]].

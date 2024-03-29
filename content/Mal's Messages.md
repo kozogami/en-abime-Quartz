@@ -1,0 +1,1 @@
+Mal's message inbox. Submit text through here to talk to her, click "talk to me" to see what she says back.
