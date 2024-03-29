@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Quartz Discord Community": "https://discord.gg/cRFFHYye7t",
-	  "Tati's Discord (En Abime)": "https://discord.gg/BAUbGc5a"
+	  "Tati's Discord (En Abime)": "https://discord.gg/BAUbGc5a",
     },
   }),
 }
