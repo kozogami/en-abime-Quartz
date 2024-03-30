@@ -1,0 +1,1 @@
+Displays the same page as error404, but didn't used to. Only Sef saw the original, which was some kind of sign up page.

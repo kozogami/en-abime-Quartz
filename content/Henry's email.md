@@ -1,0 +1,3 @@
+Henry is a pretty responsive emailer (still hasn't responded to me tho ;-;). He seems to interpret all forms of communication as HAM radio broadcasts, but hears audio much better than text. He frequently communicates in morse code and through spectrograms. 
+
+Worth exploring as their own document, so here it is (thanks Sef, dragons, and YH!): [henry doc](https://docs.google.com/document/d/1qn6X1GKHjWlWZ_g2vJIaJIP6WyD6LzU6lTJhkgteZZI/edit#heading=h.n1ti9g2j4adr)
